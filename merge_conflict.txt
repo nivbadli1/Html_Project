@@ -1,2 +1,0 @@
-hello merge
-hello merge from feature-c
